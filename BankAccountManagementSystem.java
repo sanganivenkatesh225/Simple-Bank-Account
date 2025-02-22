@@ -54,7 +54,7 @@ public class BankAccountManagementSystem {
         }
     }
 
-    public static void RunBankAccountManagementSystem(String[] args) {
+    public static void main(String[] args) {
         BankAccountManagementSystem bank = new BankAccountManagementSystem();
         Scanner scanner = new Scanner(System.in);
 
