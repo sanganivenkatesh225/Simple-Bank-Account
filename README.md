@@ -14,14 +14,10 @@ This is a simple bank account management system implemented in Java. The program
 
 ### Running the Program
 1. Clone the repository:
-```
-git clone https://github.com/kalutu/bank-account-management-system.git
-```
+
 
 2. Navigate to the project directory:
-```
-cd bank-account-management-system
-```
+
 
 3. Compile the Java file:
 ```
